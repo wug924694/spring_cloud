@@ -24,6 +24,11 @@
         <module>Cloud-ConsumerHystrix-Order80</module>
         <module>Cloud-Consumer-HystrixDashboard9001</module>
         <module>Cloud-GateWay-GateWay9527</module>
+        <module>Cloud-Config-Center-3344</module>
+        <module>Cloud-Config-Center-3355</module>
+        <module>Cloud-Stream-RabbitMQ-Provider8801</module>
+        <module>Cloud-Stream-RabbitMQ-Consumer8802</module>
+        <module>Cloud-Stream-RabbitMQ-Consumer8803</module>
     </modules>
     <packaging>pom</packaging>
 
