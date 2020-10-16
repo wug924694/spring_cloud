@@ -1,0 +1,3 @@
+com\kgc\springcloud\service\PayMentService.class
+com\kgc\springcloud\controller\PayMentController.class
+com\kgc\springcloud\service\impl\PayMentServiceImpl.class
