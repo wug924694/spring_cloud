@@ -29,6 +29,14 @@
         <module>Cloud-Stream-RabbitMQ-Provider8801</module>
         <module>Cloud-Stream-RabbitMQ-Consumer8802</module>
         <module>Cloud-Stream-RabbitMQ-Consumer8803</module>
+        <module>CloudAlibaba-Provider-PayMent9001</module>
+        <module>CloudAlibaba-Provider-PayMent9002</module>
+        <module>CloudAlibaba-Consumer-Nacos-Order83</module>
+        <module>CloudAlibaba-Condif-Nacos-Client337</module>
+        <module>CloudAlibaba-Sentinel-Service8401</module>
+        <module>CloudAlibaba-Provider-PayMent9003</module>
+        <module>CloudAlibaba-Provider-PayMent9004</module>
+        <module>CloudAlibaba-Consumer-Nacos-Order84</module>
     </modules>
     <packaging>pom</packaging>
 

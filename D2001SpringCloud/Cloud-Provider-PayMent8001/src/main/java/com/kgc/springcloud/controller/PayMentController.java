@@ -52,4 +52,9 @@ public class PayMentController {
         TimeUnit.SECONDS.sleep(3);
         return serverPort;
     }
+
+    @GetMapping("/payment/zipkin")
+    public String payMentZipKin(){
+        return "8001 server";
+    }
 }
