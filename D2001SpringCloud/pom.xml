@@ -37,6 +37,9 @@
         <module>CloudAlibaba-Provider-PayMent9003</module>
         <module>CloudAlibaba-Provider-PayMent9004</module>
         <module>CloudAlibaba-Consumer-Nacos-Order84</module>
+        <module>Seata-Order-Service2001</module>
+        <module>Seata-Storage-Service2002</module>
+        <module>Seata-Account-Service2003</module>
     </modules>
     <packaging>pom</packaging>
 

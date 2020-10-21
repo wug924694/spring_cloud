@@ -12,9 +12,21 @@ spring:
       transport:
         dashboard: localhost:8080
         port: 8719   #默认端口 假如端口占用  端口号自动加1
+      datasource:   #配置Sentinel持久化
+        dsl:
+          nacos:
+            server-addr: localhost:8848
+            dataId: cloudalibaba-sentinel-service
+            gruopId: DEFAULT_GROUP
+            data-type: json
+            rule-type: flow
 
 management:
   endpoints:
     web:
       exposure:
         include: "*"
+
+feign:
+  hystrix:
+    enabled: true
